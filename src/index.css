@@ -1,0 +1,9 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+#root {
+	height: 100vh;
+	background: rgb(18, 12, 110);
+	background: linear-gradient(153deg, rgba(18, 12, 110, 1) 0%, rgba(39, 40, 144, 1) 40%, rgba(64, 73, 185, 1) 78%, rgba(94, 114, 235, 1) 100%);
+}
